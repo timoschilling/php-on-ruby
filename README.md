@@ -6,4 +6,5 @@ this project is a simple tech demo how php can run on ruby
 ## howto run
     rvm install rbx
     rvm use rbx
-    ruby exaples/<name>/start.rb
+    cd exaples/<name>/
+    ruby start.rb
